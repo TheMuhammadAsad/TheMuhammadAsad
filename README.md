@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Asad
 
-**Energy Data Analyst · Data Scientist** — petroleum engineering graduate currently pursuing a Master's in Energy Engineering at the University of Genoa (Savona, Italy).
+**Energy Data Analyst, Data Scientist and Web Developer.**
 
 I build statistically rigorous analysis, production-shaped ML pipelines, and full-stack data products — with a research background spanning peer-reviewed publications and international conference presentations. I also design and ship client websites as a freelance web developer.
 

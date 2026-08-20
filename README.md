@@ -2,9 +2,9 @@
 
 **Energy Data Analyst, Data Scientist and Web Developer.**
 
-I build statistically rigorous analysis, production-shaped ML pipelines, and full-stack data products — with a research background spanning peer-reviewed publications and international conference presentations. I also design and ship client websites as a freelance web developer.
+I build statistically rigorous analysis, production-shaped ML pipelines, and full-stack data products, with a research background spanning peer-reviewed publications and international conference presentations. I also design and ship client websites as a freelance web developer.
 
-**[themuhammadasad.github.io →](https://themuhammadasad.github.io/)** — full portfolio: 13+ data/ML projects, 7+ websites, experience, publications, certifications.
+**[themuhammadasad.github.io →](https://themuhammadasad.github.io/)** is my full portfolio: 13+ data/ML projects, 7+ websites, experience, publications, and certifications.
 
 ---
 
@@ -12,7 +12,7 @@ I build statistically rigorous analysis, production-shaped ML pipelines, and ful
 
 | Project | What it does |
 |---|---|
-| [Energy Intelligence Platform](https://github.com/TheMuhammadAsad/energy-intelligence-platform) | Full-stack app over 25 years of European electricity-mix data — FastAPI + PostgreSQL, Next.js/TypeScript, Docker Compose, CI |
+| [Energy Intelligence Platform](https://github.com/TheMuhammadAsad/energy-intelligence-platform) | Full-stack app over 25 years of European electricity-mix data, built with FastAPI + PostgreSQL, Next.js/TypeScript, Docker Compose, and CI |
 | [Credit Card Fraud Detection](https://github.com/TheMuhammadAsad/fraud-detection-analysis) | Real transaction data under 0.17% class imbalance; cost-based threshold optimizer, live Streamlit dashboard |
 | [A/B Testing: Mobile Game Retention](https://github.com/TheMuhammadAsad/ab-testing-retention-analysis) | SRM check, two-proportion z-tests cross-validated against bootstrap resampling, a peeking-problem simulation |
 | [Image Classification: CNN vs. Transfer Learning](https://github.com/TheMuhammadAsad/image-classification-cnn) | CNN from scratch vs. MobileNetV2, augmentation ablation, Grad-CAM analysis |
